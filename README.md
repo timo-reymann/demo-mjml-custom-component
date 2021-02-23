@@ -12,3 +12,5 @@ Plain mjml templates are a bit cumbersome - static properties, really?!
 Annotation processing in TypeScript simply adds the required properties.
 
 The registration of the component is already done by the annotation, so you won't have to do it manually
+
+See [custom-text.ts](./custom-text.ts) to get a quick impression how it works.

@@ -13,7 +13,7 @@ import {MJMLCustomElement} from "./annotation";
         }
     }
 })
-export class ClickToActionButton extends BodyComponent {
+export class CustomText extends BodyComponent {
     render() {
         return this.renderMJML(`
             <mj-text align="center" color="${this.getAttribute('text-color')}">
