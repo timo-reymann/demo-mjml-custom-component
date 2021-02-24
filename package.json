@@ -5,10 +5,9 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "mjml": "^4.8.1",
-    "@types/mjml": "^4.7.0",
-    "tsc": "^1.20150623.0",
     "@types/lodash": "^4.14.168",
+    "@types/mjml": "^4.7.0",
+    "mjml": "^4.8.1",
     "typescript": "^4.1.5"
   },
   "scripts": {
